@@ -90,6 +90,8 @@ Hitachi
 
 [MariaDB](https://mariadb.com/resources/blog/mariadb-pledges-cure-period-open-source-licenses)
 
+[MEDIA PROMO SERVICE](https://veronique-sidemeet.gitbook.io/legal-docs/)
+
 NEC
 
 [NVIDIA](https://developer.nvidia.com/gpl-cooperation-commitment)
